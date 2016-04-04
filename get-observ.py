@@ -1,3 +1,4 @@
+#Converting coordinates to decimal from HA:Min:Sec and Deg: Min:Sec to help with plotting as well as for filtering observed sources from SDSS and NED data
 
 import pyfits
 
