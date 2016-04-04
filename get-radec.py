@@ -1,4 +1,4 @@
-
+# Converting RA and dec from sexagesimal to decimal units
 import pyfits
 
 #FAST_files: 
