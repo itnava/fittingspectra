@@ -1,5 +1,4 @@
-#Converting coordinates to decimal from HA:Min:Sec and Deg: Min:Sec to help with plotting as well as for filtering observed sources from SDSS and NED data
-
+#Converting coordinates to decimal from HA:Min:Sec and Deg: Min:Sec to help with plotting as well as for removing duplicates and observations of different areas on the same galaxy
 import pyfits
 
 def trunc(item,n):
